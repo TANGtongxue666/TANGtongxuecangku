@@ -3,6 +3,7 @@
 //唐鑫
 #include <stdio.h>
 
+
 // 函数声明，用于计算阶乘
 int factorial(int n);
 
